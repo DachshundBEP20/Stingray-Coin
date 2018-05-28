@@ -1,4 +1,4 @@
-# Stingray
+# Stingray Coin
 
 ![Stingray](logo.png)
 
